@@ -1,6 +1,4 @@
-# Avaliação Sprint 3
-
-## Análise de Sentimentos dos Artigos
+# Análise de Sentimentos dos Artigos
 
 ## Bibliotecas 📚
 
